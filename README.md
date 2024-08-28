@@ -4,6 +4,14 @@
 
 This is a GIF search and gallery application built using the MERN stack (MongoDB, Express.js, React, Node.js). It includes user authentication and functionality to search for GIFs from the GIPHY API, manage favorites, and handle user registration and login.
 
+## App link
+
+https://gif-search-app-mern.netlify.app/
+
+## Demo
+
+https://github.com/user-attachments/assets/9c8567fc-cc45-4e49-aa32-3d52d6c0940f
+
 ## Features
 
 - **User Authentication:** Users can register, login, and logout.
